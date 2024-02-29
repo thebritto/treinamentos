@@ -1,0 +1,6 @@
+Criar um crud de categorias e produtos
+Ao incluir um produto, verificar se a categoria existe
+
+Montar os sequintes relatorios:
+  Preço médio de produtos por categoria
+  Quantidade de produtos por categoria
